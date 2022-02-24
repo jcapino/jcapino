@@ -6,8 +6,9 @@
       <ol>
         <li> 👨‍💻 I am a Systems Engineer and also a Technologist in Analysis and Development of Information Systems 😉</li>
         <li> 🌱 I'm currently learning Flutter, Google Cloud ☁️.</li>
-        <li> 💬  Ask me about anything related to Music 🎧, lifehacks, and anything that interests you.</li>
-        <li> ⚡  Fun fact: "With Great power comes Great Responsability" </li>
+        <li> 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Java, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
+        <li> 💬 Ask me about anything related to Music 🎧, lifehacks, and anything that interests you. i'm happy to helpful.</li>
+        <li> ⚡ Fun fact: "With Great power comes Great Responsability" </li>
       </ol>
     </td>
     <td>
@@ -32,7 +33,8 @@
   
   <h3>Languages and Tools</h3>
   
-  <a href="#">
+  <p align="center">
+    <a href="#">
       <img align="center" 
            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
            alt="JAVA"/>
@@ -164,6 +166,7 @@
            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
            alt="HTML5"/>
   </a>
+  </p>
 </details>
   
 <details>
