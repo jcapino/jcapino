@@ -13,7 +13,7 @@
     </td>
     <td>
       <img align="center" 
-           src="https://lh4.googleusercontent.com/t5jB0cXBOir9mzQpgx5VIKYWcPY-JSNLuJT_FoJeJ52VzuyvMuYTJn3_A8ahBhTliMusFydDTs3ik123ffVo=w1366-h567" 
+           src="https://lh5.googleusercontent.com/Wyrtpb5d35lghgsrnjcyWjC38lQjiHiUsdpSbPHO7YudFWwGE_xxK5zqGY_fKB92WN-szIBkAQt_Bw=w1920-h969" 
            alt="coding" height="200px"/>
     </td>
   </tr>
