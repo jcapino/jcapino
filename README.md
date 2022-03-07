@@ -13,7 +13,7 @@
     </td>
     <td>
       <img align="center" 
-           src="https://lh5.googleusercontent.com/Wyrtpb5d35lghgsrnjcyWjC38lQjiHiUsdpSbPHO7YudFWwGE_xxK5zqGY_fKB92WN-szIBkAQt_Bw=w1920-h969" 
+           src="./code.gif" 
            alt="coding" height="200px"/>
     </td>
   </tr>
