@@ -308,7 +308,7 @@ I am interested in digital products around music, artists, DJ profiles, content 
 ---
 
 ```txt
-I build software with a backend-first mindset, cloud-native vision, and strong focus on maintainability, reliability, and business value.
+I build software with a backend-first mindset, cloud-native vision, and a strong focus on maintainability, reliability, and business value.
 ```
 
 <!--
