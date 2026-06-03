@@ -88,11 +88,11 @@ This section reflects technologies, tools, and engineering topics I have been ac
 ### Backend, Architecture & Integration
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring WebFlux"/>
-  <img src="https://img.shields.io/badge/Project_Reactor-6DB33F?style=for-the-badge&logo=reactivex&logoColor=white" alt="Project Reactor"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" loading="lazy" referrerpolicy="no-referrer" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" loading="lazy" referrerpolicy="no-referrer" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" loading="lazy" referrerpolicy="no-referrer" alt="Spring WebFlux"/>
+  <img src="https://img.shields.io/badge/Project_Reactor-6DB33F?style=for-the-badge&logo=reactivex&logoColor=white" loading="lazy" referrerpolicy="no-referrer" alt="Project Reactor"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge" loading="lazy" referrerpolicy="no-referrer" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
   <img src="https://img.shields.io/badge/Microservices-111111?style=for-the-badge" alt="Microservices"/>
   <img src="https://img.shields.io/badge/DDD-111111?style=for-the-badge" alt="DDD"/>
