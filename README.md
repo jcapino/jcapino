@@ -40,7 +40,7 @@ Microservices             ██████████████████
 Cloud-Native Systems      ████████████████░░░░
 Software Architecture     ████████████████░░░░
 Distributed Systems       ███████████████░░░░░
-DevOps / CI-CD            ██████████████░░░░░░
+DevOps / CI/CD            ██████████████░░░░░░
 Frontend Integration      ████████████░░░░░░░░
 Technical Leadership      █████████████░░░░░░░
 ```
