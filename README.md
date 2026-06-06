@@ -63,23 +63,35 @@ Technical Leadership      █████████████░░░░░
 
 ---
 
-## 🧩 Recent technical work and learning path
+## 🧩 Recent technical work and focus areas
 
-This section reflects technologies, tools, and engineering topics I have been actively working on or strengthening recently:
+This section summarizes the technologies, architecture practices, and engineering topics I have recently been applying and strengthening through hands-on software delivery:
 
-- **Reactive Java and Spring WebFlux**: `Mono`, `Flux`, chained operations, cascade flows, `Mono<Void>`, `zip`, `StepVerifier`, and non-blocking service design.
-- **Domain-driven backend design**: application use cases, domain models vs DTOs, repository adapters, mappers, clean boundaries, and hexagonal architecture.
-- **Cloud and containers**: AWS **EC2, EKS, ECS, ECR, S3, API Gateway, Lambda, Step Functions**, Docker, Docker Compose, Ubuntu servers, and Kubernetes/OpenShift runtime concepts.
-- **Database engineering**: PostgreSQL schema design, migrations, foreign keys, identity columns, UUID vs SERIAL/INTEGER tradeoffs, sequence management, enum refactoring, and safe migration scripts.
-- **Reactive persistence**: R2DBC with MySQL/PostgreSQL, remote database connectivity, SSL configuration, and reactive repository patterns.
-- **Messaging and integration**: Kafka consumer flows, external service enrichment, retry/backoff strategies, scheduled fallback processing, RabbitMQ, REST clients, WebClient, Axios, and API orchestration.
-- **Frontend engineering**: React, TypeScript, Angular, dynamic component rendering, form wizards, reusable modals, data tables, collapsible detail views, side navigation UX, Flowbite React, and API service configuration.
-- **Security and identity**: OAuth2/JWT flows, Keycloak service integration, token refresh/update handling, protected API clients, and secure environment configuration.
-- **Testing and quality**: JUnit 5, Mockito, StepVerifier, controller/use-case testing, error handler testing, SonarLint/SonarQube, and clean test structure.
-- **DevOps and automation**: Git, GitHub, GitHub Actions, GitLab Pipelines, Jenkins, PowerShell deployment scripts, Windows scheduled tasks, tunnel retries, build orchestration, and environment troubleshooting.
-- **Observability and operations**: CloudWatch, ELK, Prometheus/Grafana, OpenTelemetry, logs, health checks, service registry troubleshooting, and production support mindset.
-- **AI-assisted engineering**: using coding agents and structured prompts to accelerate frontend refactors, architecture analysis, UI improvements, documentation, and implementation planning.
-- **Adjacent technologies**: Firebase, Google Cloud Run, MinIO/S3-compatible storage, Kotlin for Android-oriented experiments, and cloud/serverless learning.
+* **Reactive Java and Spring WebFlux**: designing non-blocking backend flows with `Mono`, `Flux`, `Mono<Void>`, stream composition, cascade operations, `zip`, and `StepVerifier`.
+
+* **Backend architecture and DDD**: applying use cases, domain models, DTO boundaries, repository ports/adapters, mappers, clean boundaries, Hexagonal Architecture, and Clean Architecture.
+
+* **Cloud and containers**: working with AWS **EC2, EKS, ECS, ECR, S3, API Gateway, Lambda, Step Functions**, Docker, Docker Compose, Kubernetes/OpenShift concepts, and Linux-based environments.
+
+* **Database engineering**: designing and evolving PostgreSQL schemas, migrations, foreign keys, identity columns, UUID vs numeric identifiers, sequences, enum refactoring, and safe migration scripts.
+
+* **Reactive persistence**: implementing R2DBC-based data access with MySQL/PostgreSQL, remote connectivity, SSL configuration, and reactive repository patterns.
+
+* **Messaging and integration**: orchestrating distributed flows with Kafka, RabbitMQ, REST clients, WebClient, Axios, retry/backoff strategies, scheduled recovery, and external service integration.
+
+* **Frontend engineering**: maintaining React, TypeScript, and Angular applications with reusable components, dynamic rendering, form wizards, modals, tables, collapsible views, navigation UX, and API client configuration.
+
+* **Security and identity**: integrating OAuth2/JWT flows, Keycloak, token refresh handling, protected API clients, authorization headers, and secure environment configuration.
+
+* **Testing and quality**: building maintainable test suites with JUnit 5, Mockito, StepVerifier, controller/use-case testing, error handler validation, SonarLint/SonarQube, and clean test structure.
+
+* **DevOps and automation**: improving delivery workflows with Git, GitHub, GitHub Actions, GitLab Pipelines, Jenkins, PowerShell scripts, Windows scheduled tasks, tunnel retries, and build orchestration.
+
+* **Observability and operations**: supporting production readiness with CloudWatch, ELK, Prometheus/Grafana, OpenTelemetry concepts, structured logs, health checks, diagnostics, and service registry troubleshooting.
+
+* **AI-assisted engineering**: using coding agents and structured prompts for architecture analysis, frontend refactoring, UI improvements, documentation, planning, and technical decision support.
+
+* **Adjacent technologies**: Firebase, Google Cloud Run, MinIO/S3-compatible storage, Kotlin experiments, and cloud/serverless patterns.
 
 ---
 
